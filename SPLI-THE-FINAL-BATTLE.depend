@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1531279260 source:c:\##bustamante\spli-the-final-battle\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531279260 c:\##bustamante\spli-the-final-battle\arraylist.h
+
+1531285062 source:c:\##bustamante\spli-the-final-battle\empleado.c
+	"empleado.h"
+	<stdio.h>
+
+1531279260 c:\##bustamante\spli-the-final-battle\empleado.h
+	"ArrayList.h"
+
+1531285343 source:c:\##bustamante\spli-the-final-battle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Parser.h"
+
+1531285343 c:\##bustamante\spli-the-final-battle\parser.h
+	<stdio.h>
+	"ArrayList.h"
+	"Builder.h"
+
+1531285551 source:c:\##bustamante\spli-the-final-battle\parser.c
+	"Parser.h"
+	<string.h>
+
+1531285551 c:\##bustamante\spli-the-final-battle\builder.h
+	"ArrayList.h"
+
+1531285551 source:c:\##bustamante\spli-the-final-battle\builder.c
+	"Builder.h"
+	<stdio.h>
+
